@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1001,
+    "name": "Boston Emergency Shelter (City / Boston Public Health Commission Referrals)",
+    "category": "Housing Help",
+    "subcategory": "Emergency & No-Income Housing",
+    "location": "Boston, MA (referrals managed by Boston Public Health Commission)",
+    "phone": "617-534-4440",
+    "website": "https://www.boston.gov/government/cabinets/boston-public-health-commission/homeless-services/emergency-shelter",
+    "details": "Emergency shelter referrals and placement guidance; providers/referrers are asked to call ahead."
+  },
+  {
+    "id": 1002,
+    "name": "Pine Street Inn",
+    "category": "Housing Help",
+    "subcategory": "Emergency & No-Income Housing",
+    "location": "444 Harrison Avenue, Boston, MA 02118",
+    "phone": "617-892-9100",
+    "website": "https://www.pinestreetinn.org",
+    "details": "Emergency shelter for adults and street outreach services."
+  },
+  {
+    "id": 1003,
+    "name": "Rosie’s Place",
+    "category": "Housing Help",
+    "subcategory": "Emergency & No-Income Housing",
+    "location": "889 Harrison Avenue, Boston, MA 02118",
+    "phone": "617-442-9322",
+    "website": "https://www.rosiesplace.org",
+    "details": "Support and pathways for women needing shelter, meals, and basic services."
+  },
+  {
+    "id": 1004,
+    "name": "Bridge Over Troubled Waters",
+    "category": "Housing Help",
+    "subcategory": "Youth (18–24) & Crisis Support",
+    "location": "47 West Street, Boston, MA 02111",
+    "phone": "617-423-9575",
+    "website": "https://bridgeotw.org/get-help/",
+    "details": "Support for homeless/runaway/at-risk youth including counseling, education pathways, and stabilization services."
+  },
+  {
+    "id": 2001,
+    "name": "The Greater Boston Food Bank",
+    "category": "Food Security",
+    "subcategory": "Food Pantries & SNAP Support",
+    "location": "70 South Bay Avenue, Boston, MA 02118",
+    "phone": "617-427-5200",
+    "website": "https://www.gbfb.org/contact-us/",
+    "details": "Food bank network supporting pantries and meal programs; also offers SNAP outreach assistance."
+  },
+  {
+    "id": 2002,
+    "name": "St. Francis House",
+    "category": "Food Security",
+    "subcategory": "Meals, Clothing, and Basic Needs",
+    "location": "39 Boylston Street, Boston, MA 02116",
+    "phone": "617-542-4211",
+    "website": "https://stfrancishouse.org/contact-us/",
+    "details": "Day shelter and services including meals, clothing, and support programs."
+  },
+  {
+    "id": 2003,
+    "name": "Project Bread",
+    "category": "Food Security",
+    "subcategory": "SNAP & Food Assistance Navigation",
+    "location": "145 Border Street, East Boston, MA 02128",
+    "phone": "617-723-5000",
+    "website": "https://projectbread.org/contact-us",
+    "details": "Food assistance organization helping residents access meal resources and benefits like SNAP."
+  },
+  {
+    "id": 3001,
+    "name": "Greater Boston Legal Services (GBLS)",
+    "category": "Legal Aid",
+    "subcategory": "Housing, Benefits, Employment, Immigration Referrals",
+    "location": "197 Friend Street, Boston, MA 02114",
+    "phone": "617-371-1234",
+    "website": "https://www.gbls.org/contact_us",
+    "details": "Free civil legal aid for eligible low-income residents; help with housing, benefits, and worker rights."
+  },
+  {
+    "id": 3002,
+    "name": "Volunteer Lawyers Project (VLP)",
+    "category": "Legal Aid",
+    "subcategory": "Eviction Clinics & Civil Legal Help",
+    "location": "7 Winthrop Square, 2nd Floor, Boston, MA 02110",
+    "phone": "617-603-1700",
+    "website": "https://vlpnet.org/about-us/contact-us/",
+    "details": "Civil legal support including eviction-related clinics and advice; hotline available."
+  },
+  {
+    "id": 3003,
+    "name": "PAIR Project (Political Asylum / Immigration Representation Project)",
+    "category": "Legal Aid",
+    "subcategory": "Immigration & Asylum",
+    "location": "98 North Washington Street, Suite 106, Boston, MA 02114",
+    "phone": "617-742-9296",
+    "website": "https://www.pairproject.org/",
+    "details": "Immigration and asylum legal support and pro bono coordination; focused on protecting asylum seekers and immigrants."
+  },
+  {
+    "id": 4001,
+    "name": "Massachusetts Department of Transitional Assistance (DTA) Assistance Line",
+    "category": "Cash & Income Assistance",
+    "subcategory": "Cash Benefits, SNAP, Emergency Help",
+    "location": "Massachusetts (statewide phone support)",
+    "phone": "877-382-2363",
+    "website": "https://www.mass.gov/orgs/department-of-transitional-assistance",
+    "details": "State benefits agency for SNAP/EBT, cash assistance, and related programs; use the assistance line for case help."
+  },
+  {
+    "id": 5001,
+    "name": "City of Boston — Office of Housing Stability",
+    "category": "Housing Help",
+    "subcategory": "Tenant Support, Eviction Prevention & Navigation",
+    "location": "26 Court Street, Boston, MA 02108",
+    "phone": "617-635-4200",
+    "website": "https://www.boston.gov/departments/housing/office-housing-stability",
+    "details": "Helps tenants facing eviction or housing instability with navigation, prevention, and referral support."
+  },
+  {
+    "id": 6001,
+    "name": "MassHire Downtown Boston Career Center",
+    "category": "Employment & Training",
+    "subcategory": "Job Search, Training, Resume Help",
+    "location": "75 Federal Street, 3rd Floor, Boston, MA 02110",
+    "phone": "617-399-3100",
+    "website": "https://masshiredowntownboston.org/contact/",
+    "details": "Workforce services including job search help, training referrals, resume/interview support, and career coaching."
+  },
+  {
+    "id": 7001,
+    "name": "Massachusetts Health Connector (Customer Service)",
+    "category": "Healthcare",
+    "subcategory": "Insurance Marketplace & Subsidized Plans",
+    "location": "Massachusetts (phone support)",
+    "phone": "877-623-6765",
+    "website": "https://www.mahealthconnector.org/about/contact",
+    "details": "State health insurance marketplace; customer service helps with enrollment, plans, and eligibility."
+  }
+]
