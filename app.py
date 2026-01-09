@@ -2,7 +2,9 @@ from flask import Flask, jsonify, request, send_from_directory  # import Flask s
 from flask_cors import CORS  # import CORS so browsers can call the API safely
 import os  # import os for building safe file paths
 import copy  # import copy so we can safely duplicate resource objects before translating them
-
+@app.get("/")  # define a simple root endpoint
+def root():  # function that runs when someone visits /
+    return jsonify(ok=True, message="Boston Immigrant Resources API is running")  # return a clear JSON response
 app = Flask(__name__)  # create the Flask application instance
 CORS(app, resources={r"/api/*": {"origins": ["https://bostonimmigrantresources.org"]}})  # allow only your production Netlify domain to call /api endpoints
   # enable CORS (safe even when serving frontend from same server)
